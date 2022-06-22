@@ -1,18 +1,3 @@
-<!--
-**waguii/waguii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/waguii" target="_blank"><i>Wagner</i></a> <img height="40" src="https://cdn3.emoji.gg/emojis/6376-kirbyfornitedance.gif"></h1>
 <div align="center">
   <a href="https://github.com/waguii">
@@ -40,17 +25,17 @@ Here are some ideas to get you started:
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title = "Bitbucket" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title = "Debian" /></code>
-  <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP" /></code>         
-</div> 
-  
+  <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP" /></code>
+</div>
+
 <h1 align="center">📝Connect with me</h1>
 <div align="center">
   <a href="mailto:wagabsousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/waguii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/wagabsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+
 <h3 align="center">Commits</h3>
-<div align="center">  
+<div align="center">
   ![Snake animation](https://github.com/waguii/waguii/blob/output/github-contribution-grid-snake.svg)
 </div>
