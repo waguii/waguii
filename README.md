@@ -5,7 +5,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<h3 align="center"> 🖥️  Technologies and Tools </h3>
+<h1 align="center"> 🖥️ Technologies and Tools </h1>
+
 <div align="center">
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
@@ -28,19 +29,18 @@
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP" /></code>
 </div>
 
-<h1 align="center">📝Connect with me</h1>
+<h1 align="center"> 📝 Connect with me</h1>
+
 <div align="center">
   <a href="mailto:wagabsousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/wagabsousa" target="_blank"><img src="https://img.shields.io/badge/-twiiter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/waguii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="center">Commits</h3>
-<div align="center">
-<img src="https://raw.githubusercontent.com/waguii/waguii/output/github-contribution-grid-snake.svg">
+<h1 align="center"> 🚀 Commits</h1>
 
+<div align="center">
 
 ![Snake animation](https://github.com/waguii/waguii/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
