@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/waguii" target="_blank"><i>Wagner</i></a> <img height="40" src="https://cdn3.emoji.gg/emojis/6376-kirbyfornitedance.gif"></h1>
+  
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Deep learning, Machine learning, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue automate any activity and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email it's free and I'll try to respond as soon as I can.\
+
+<h1 align="center"> 📈 Stats </h1>
+
 <div align="center">
   <a href="https://github.com/waguii">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=waguii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 <h1 align="center"> 🖥️ Technologies and Tools </h1>
 
