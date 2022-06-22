@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "vscode"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "git"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title = "kotlin"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
+  <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title = "android studio"/></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title = "Apache" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title = "Arduino" /></code>
