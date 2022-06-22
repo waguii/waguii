@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Seja bem vindo me chamo <a href="https://www.linkedin.com/in/waguii" target="_blank"><i>Wagner Sousa</i></a>, sou Desenvolvedor full-stack e Data Scientist Jr.</h2>
+<br>
