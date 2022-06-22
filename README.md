@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title = "Bitbucket" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title = "Debian" /></code>
   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP" /></code>         
-  <img align="right" height="180" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div> 
   
 <h1 align="center">📝Connect with me</h1>
