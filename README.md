@@ -31,7 +31,7 @@
 <h1 align="center">📝Connect with me</h1>
 <div align="center">
   <a href="mailto:wagabsousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/waguii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/waguii" target="_blank"><img src="https://img.shields.io/badge/-twiiter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/wagabsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
