@@ -45,16 +45,13 @@ Here are some ideas to get you started:
 </div> 
   
 <h3 align="center">📝Connect with me</h3>
-  <div align="center">
-    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waguii/)
-    [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waguii)
-    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagabsousa@gmail.com)
-  </div>
-<div> 
+<div align="center">
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waguii/)
+  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waguii)
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagabsousa@gmail.com)
+</div>
   
-  <h3>Commits:</h3>
- <div align="center">
-  
+<h3 align="center">📝Connect with me</h3>
+<div align="center">  
   ![Snake animation](https://github.com/waguii/waguii/blob/output/github-contribution-grid-snake.svg)
-   
 </div>
