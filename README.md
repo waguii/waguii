@@ -37,5 +37,6 @@
 
 <h3 align="center">Commits</h3>
 <div align="center">
-  ![Snake animation](https://github.com/waguii/waguii/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/waguii/waguii/blob/output/github-contribution-grid-snake.svg)
 </div>
