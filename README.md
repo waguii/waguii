@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **waguii/waguii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Seja bem vindo me chamo <a href="https://www.linkedin.com/in/waguii" target="_blank"><i>Wagner Sousa</i></a>, sou Desenvolvedor full-stack e Data Scientist Jr.</h2>
-<br>
+<h2>Seja bem vindo me chamo <a href="https://www.linkedin.com/in/waguii" target="_blank"><i>Wagner Santos</i></a>, sou Desenvolvedor full-stack e Data Scientist Jr.</h2>
+<br/>
+<div align="center">
+  <a href="https://github.com/waguii">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=waguii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waguii&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br/>
