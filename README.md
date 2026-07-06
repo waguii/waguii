@@ -6,9 +6,9 @@
 
 *I build autonomous mini-markets — the kiosk, the cloud, and everything in between.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waguii)
-[![E-mail](https://img.shields.io/badge/wagner%40uniolab.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagner@uniolab.com.br)
-[![X](https://img.shields.io/badge/%40waguii-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waguii)
+[![LinkedIn][badge-linkedin]](https://www.linkedin.com/in/waguii)
+[![E-mail][badge-email]](mailto:wagner@uniolab.com.br)
+[![X][badge-x]](https://x.com/waguii)
 
 <sub>🇧🇷 Prefere português? <a href="./README.pt-BR.md">Leia esta página em PT-BR</a></sub>
 
@@ -65,12 +65,12 @@ My studio & umbrella brand — where the products, automations and experiments l
 
 ## 📊 Stats — the visible slice
 
-> Most of my commits live in **private product repos**, so the cards below undersell the grind. 🧊
+> Most of my commits live in **private product repos**, so the numbers below undersell the grind. 🧊
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=waguii&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000">
-    <img height="170" alt="Wagner's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=waguii&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=waguii&theme=tokyonight&hide_border=true&background=00000000">
+    <img height="170" alt="Wagner's contribution streak" src="https://streak-stats.demolab.com?user=waguii&hide_border=true&background=00000000">
   </picture>
 </div>
 
@@ -99,3 +99,7 @@ For everything else: [wagner@uniolab.com.br](mailto:wagner@uniolab.com.br) · [L
 <sub>🇧🇷 <a href="./README.pt-BR.md">Versão em Português</a> · built with ☕ in Brazil</sub>
 
 </div>
+
+[badge-linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D
+[badge-email]: https://img.shields.io/badge/wagner%40uniolab.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+[badge-x]: https://img.shields.io/badge/%40waguii-000000?style=for-the-badge&logo=x&logoColor=white
