@@ -72,11 +72,6 @@ My studio & umbrella brand — where the products, automations and experiments l
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics-dark.svg">
     <img alt="Wagner's GitHub metrics with full-year contribution calendar" src="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics.svg">
   </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=waguii&theme=tokyonight&hide_border=true&background=00000000">
-    <img height="170" alt="Wagner's contribution streak" src="https://streak-stats.demolab.com?user=waguii&hide_border=true&background=00000000">
-  </picture>
 </div>
 
 ## 🎯 Now & side quests
@@ -95,11 +90,6 @@ For everything else: [wagner@uniolab.com.br](mailto:wagner@uniolab.com.br) · [L
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waguii/waguii/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/waguii/waguii/output/github-contribution-grid-snake.svg">
-</picture>
 
 <sub>🇧🇷 <a href="./README.pt-BR.md">Versão em Português</a> · built with ☕ in Brazil</sub>
 

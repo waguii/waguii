@@ -72,11 +72,6 @@ Meu estúdio e marca guarda-chuva — onde moram os produtos, as automações e 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics-dark.svg">
     <img alt="Métricas do GitHub do Wagner com calendário de contribuições do ano" src="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics.svg">
   </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=waguii&theme=tokyonight&hide_border=true&background=00000000&locale=pt_BR">
-    <img height="170" alt="Sequência de contribuições do Wagner" src="https://streak-stats.demolab.com?user=waguii&hide_border=true&background=00000000&locale=pt_BR">
-  </picture>
 </div>
 
 ## 🎯 Agora & missões paralelas
@@ -95,11 +90,6 @@ Para todo o resto: [wagner@uniolab.com.br](mailto:wagner@uniolab.com.br) · [Lin
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waguii/waguii/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/waguii/waguii/output/github-contribution-grid-snake.svg">
-</picture>
 
 <sub>🇺🇸 <a href="./README.md">English version</a> · feito com ☕ no Brasil</sub>
 
