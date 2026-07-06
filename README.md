@@ -39,10 +39,6 @@ Self-service stores for condos and companies: smart checkout kiosk, cloud ERP, r
 | 🚀 **Infra** | Self-hosted CI/CD & registry — Docker · Harbor · Dokploy |
 | 🔌 **Hardware** | Sunmi payment terminals · BLE electronic shelf tags · access control integration |
 
-### 🧺 Despensinha
-
-Smart-pantry line of the same ecosystem — micro-markets for smaller spaces: IoT price tags, Java microservices, TypeScript storefronts.
-
 ### 🔬 [Uniolab](https://github.com/Uniolab)
 
 My studio & umbrella brand — where the products, automations and experiments live.
