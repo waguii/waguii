@@ -19,7 +19,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🏗️ Fundador do **[EasyPDV](https://www.easypdv.com.br)** — uma plataforma completa para mercados autônomos, construída full-stack: do PDV Kotlin rodando no totem até a infraestrutura self-hosted por trás
-- 🧊 **Este perfil é só a ponta do iceberg**: 4.400+ contribuições no último ano, ~99% em repositórios privados de produto
+- 🧊 **Este perfil é só a ponta do iceberg**: 4.500+ contribuições no último ano, ~99% em repositórios privados de produto
 - 📚 Me aprofundando em **Machine Learning & Data Science na Le Wagon** · também engenharia com a **Vupty**
 - 🤖 Regra pessoal: *se eu tiver que fazer duas vezes, eu escrevo um bot*
 - 🐙 Codando no GitHub desde **2013**
@@ -65,9 +65,14 @@ Meu estúdio e marca guarda-chuva — onde moram os produtos, as automações e 
 
 ## 📊 Stats — a fatia visível
 
-> A maior parte dos meus commits vive em **repositórios privados de produto**, então os números abaixo mostram só uma fração do trabalho. 🧊
+> Aqui todo commit conta — o calendário abaixo inclui os **repositórios privados de produto**, onde ~99% do trabalho acontece. 🧊
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics-dark.svg">
+    <img alt="Métricas do GitHub do Wagner com calendário de contribuições do ano" src="https://raw.githubusercontent.com/waguii/waguii/metrics/metrics.svg">
+  </picture>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=waguii&theme=tokyonight&hide_border=true&background=00000000&locale=pt_BR">
     <img height="170" alt="Sequência de contribuições do Wagner" src="https://streak-stats.demolab.com?user=waguii&hide_border=true&background=00000000&locale=pt_BR">
