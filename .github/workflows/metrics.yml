@@ -4,8 +4,6 @@ on:
   schedule: # daily, 06:00 UTC = 03:00 Brazil/NE
     - cron: "0 6 * * *"
   workflow_dispatch:
-  push: # TEMPORARY - testing only, removed before merge
-    branches: [metrics-setup]
 
 permissions:
   contents: write
